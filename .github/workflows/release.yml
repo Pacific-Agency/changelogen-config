@@ -1,0 +1,17 @@
+name: Релиз проекта
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Версия релиза
+        required: true
+        type: string
+
+jobs:
+  changelog:
+    uses: Pacific-Agency/workflows/.github/workflows/changelog.yml@main
+    with:
+      version: ${{ inputs.version }}
+    secrets:
+      GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
