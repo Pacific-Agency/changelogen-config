@@ -1,4 +1,17 @@
 
+## v0.1.1
+
+[compare changes](https://github.com/Pacific-Agency/changelogen-config/compare/v0.1.0...v0.1.1)
+
+
+### 🏡 Другие изменения
+
+  - Закрепление версии `workflows` ([#14](https://github.com/Pacific-Agency/changelogen-config/pull/14))
+
+### ❤️  Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.1.0
 
 
