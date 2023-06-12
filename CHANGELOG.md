@@ -1,4 +1,17 @@
 
+## v0.1.2
+
+[compare changes](https://github.com/Pacific-Agency/changelogen-config/compare/v0.1.1...v0.1.2)
+
+
+### 🐞 Исправления
+
+  - Изменение шаблона сообщения релиза ([#15](https://github.com/Pacific-Agency/changelogen-config/pull/15))
+
+### ❤️  Contributors
+
+- Vasily Kuzin ([@ExEr7um](http://github.com/ExEr7um))
+
 ## v0.1.1
 
 [compare changes](https://github.com/Pacific-Agency/changelogen-config/compare/v0.1.0...v0.1.1)
