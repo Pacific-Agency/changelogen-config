@@ -1,4 +1,7 @@
 {
+  "templates": {
+    "commitMessage": "chore(release): `v{{newVersion}}`"
+  },
   "types": {
     "chore": {
       "title": "🏡 Другие изменения"
